@@ -1,3 +1,11 @@
-# portscanner
+# PORTSCANNER
 
-This is a simple port scanner used to identify the open ports of the 'localhost'. This is just to show the working of port scanners. The file is made in python3 which means, python3 has to be installed as pre requisite in the machine.
+The Port Scanner is a Python-based command-line tool that allows you to scan for open ports on your local machine. It helps you identify which ports are listening and potentially accessible on the localhost, aiding in security assessments and network exploration.
+
+# Installation
+Make sure you have Python installed on your system. You can download Python from https://www.python.org/downloads/.
+
+Clone or download this repository to your local machine.
+
+# Usage
+To use the Port Scanner, navigate to the project directory in the terminal and run the port_scanner.py script.
