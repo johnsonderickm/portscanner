@@ -1,4 +1,4 @@
-# PORTSCANNER
+# portscanner
 
 The Port Scanner is a Python-based command-line tool that allows you to scan for open ports on your local machine. It helps you identify which ports are listening and potentially accessible on the localhost, aiding in security assessments and network exploration.
 
